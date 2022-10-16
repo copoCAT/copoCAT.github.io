@@ -123,3 +123,19 @@ body{
 #radio4:checked ~ .navigation-auto .auto-btn4{
     background: #40d3dc;
 }
+
+#radio5:checked ~ .navigation-auto .auto-btn5{
+    background: #40d3dc;
+}
+
+#radio6:checked ~ .navigation-auto .auto-btn6{
+    background: #40d3dc;
+}
+
+#radio7:checked ~ .navigation-auto .auto-btn7{
+    background: #40d3dc;
+}
+
+#radio8:checked ~ .navigation-auto .auto-btn8{
+    background: #40d3dc;
+}
