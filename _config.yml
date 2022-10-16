@@ -1,12 +1,12 @@
 # Site settings
 title: copoCAT
-description: Jekyll Theme Minimal Resume
+description: Lee Gyuwon | DGU WISE Computer Engineering
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Lee Gyuwon
-user_description:![img1](https://user-images.githubusercontent.com/115914965/196036937-f7d924a0-77f1-4a99-83af-59df9f129812.JPG)
+user_description:
 user_title: DGU Computer Science & Engineering
 email: leeguewon2001@gmail.com
 instagram_username: def_gyuwon
