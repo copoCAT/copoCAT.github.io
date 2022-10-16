@@ -6,7 +6,7 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Lee Gyuwon
-user_description: upload-images: 'C:/Users/gyuwon/Desktop/DGU/코딩 스터디 OT자료/'
+user_description:
 user_title: DGU Computer Science & Engineering
 email: leeguewon2001@gmail.com
 instagram_username: def_gyuwon
